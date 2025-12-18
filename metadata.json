@@ -1,0 +1,5 @@
+{
+  "name": "Acme Asset Analytics",
+  "description": "A statistical analysis wizard for mining assets. Analyzes historical actuals, fits distributions, compares against planned values, and exports simulation parameters.",
+  "requestFramePermissions": []
+}
